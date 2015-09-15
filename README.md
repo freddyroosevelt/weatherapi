@@ -1,4 +1,4 @@
-#Objective of app: Fetch the weather in any city.
+# Fetch the weather in any city.
 
 -- Fetch the weather in any city using Node.js, Promises & the OpenWeatherMap Api
 
