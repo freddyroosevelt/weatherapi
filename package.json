@@ -1,0 +1,16 @@
+{
+  "name": "weatherlocation",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Get any city weather and location",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Freddy Roosevelt",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.61.0",
+    "yargs": "^3.25.0"
+  }
+}
